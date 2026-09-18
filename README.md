@@ -111,4 +111,6 @@
 </details>
 <details>
   <summary><strong>Projetos</strong></summary>
+  <a href="https://github.com/TheoSouzaSantos/Dynamic-Flame-Sensor"><img src="https://img.shields.io/badge/-%F0%9F%94%A5Dynamic_Flame_Sensor-yellow?style=for-the-badge" alt=" 🔥Dynamic Flame Sensor" /></a>
 </details>
+
